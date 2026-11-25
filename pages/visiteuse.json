@@ -1,0 +1,10 @@
+{
+  "mode": "point",
+  "owner": {
+    "github": "visiteuse"
+  },
+  "purpose": "discord verification",
+  "records": {
+    "CNAME": "visiteuse.github.io"
+  }
+}   
