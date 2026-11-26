@@ -1,10 +1,17 @@
 {
-  "mode": "point",
+  "mode": "instant",
   "owner": {
     "github": "visiteuse"
   },
-  "purpose": "discord verification",
-  "records": {
-    "CNAME": "visiteuse.github.io"
+  "page": {
+    "type": "person",
+    "title": "visiteuse",
+    "theme": "sunrise",
+    "links": [
+      {
+        "label": "GunLol",
+        "url": "https://guns.lol/visiteuse"
+      }
+    ]
   }
 }   
